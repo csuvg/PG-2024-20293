@@ -72,7 +72,7 @@ Esta carpeta tiene un video que muestra los resultados de la simulación del efe
 En esta carpeta se encuentra el documento de la tesis.
 
 - **Documento de tesis**:  
-  [Acceder al documento aquí](./docs/informe.pdf)
+  [Acceder al documento aquí](./docs/informe_final.pdf)
 
 ### PINNs
 
