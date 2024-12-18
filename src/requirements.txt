@@ -1,0 +1,11 @@
+torch
+numpy
+matplotlib
+scipy
+scikit-learn
+mlflow
+dagshub
+pyDOE
+torchopt
+pandas
+deepxde
